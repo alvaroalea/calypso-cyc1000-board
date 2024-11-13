@@ -2,6 +2,11 @@
 
 Calypso is just another middleboard based on the Arrow/Trenz cyc1000 board. This was born as a personal project to experiment with such board as it was delivered by Arrow Electronics as part of their European "Jump Start" Program for FPGAs.
 
+THIS FORK is only to try to got a cheap way to order pcb with SMD components solder, please refer to the original project for anythink:
+
+https://github.com/teiram/calypso-cyc1000-board
+
+
 The board takes ideas and design from other existing hobbyist project boards, embracing the following design principles:
 - Doesn't try to support multiple FPGAs and/or MCUs. it's based on the CYC1000 board and an R2040 as MCU
 - Follows the Mist ideas about IO, being the MCU the hub for most IO needs. This is convenient since the CYC1000 doesn't expose a big number of pins to the outside world.
