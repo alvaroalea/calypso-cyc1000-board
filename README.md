@@ -2,7 +2,7 @@
 
 Calypso is just another middleboard based on the Arrow/Trenz cyc1000 board. This was born as a personal project to experiment with such board as it was delivered by Arrow Electronics as part of their European "Jump Start" Program for FPGAs.
 
-THIS FORK is only to try to got a cheap way to order pcb with SMD components solder, please refer to the original project for anythink:
+THIS FORK is only to try to got a cheap way to order pcb with SMD components solder, please refer to the original project for any:
 
 https://github.com/teiram/calypso-cyc1000-board
 
