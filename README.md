@@ -8,27 +8,29 @@ https://github.com/teiram/calypso-cyc1000-board
 
 ## Prices:
 ### 5 QTY
-Type of build:
-Only PCB                                                         1,89€+1,43€ =    4€/5= 1€
-All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket)   43,25€+17,43€ =  61€/5=12€
-Only basic smd components + Diodes (62)(no 1C, 9R, 2Q, PCM, usb )   19,63€+17.xx€ =  38€/5= 8€
-Only basic smd components (52)(previos - diodes)                    15,97€+16,68€ =  33€/5= 7€
+|Type of build: |  |
+|----|----|
+|Only PCB                                                          |   1,89€+1,43€ =    4€/5= 1€ |
+|All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket) |  43,25€+17,43€ =  61€/5=12€ |
+|Only basic smd components + Diodes (62)(no 1C, 9R, 2Q, PCM, usb ) |  19,63€+17.xx€ =  38€/5= 8€ |
+|Only basic smd components (52)(previos - diodes)                  |  15,97€+16,68€ =  33€/5= 7€ |
 
 ### 2QTY + 3 PCB
-Type of build:
-All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket)   40,75€+16,68€=57€-3€=55€/2=27€
+|Type of build: |  |
+|----|----|
+|All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket) | 40,75€+16,68€=57€-3€=55€/2=27€ |
 
 ### 20 QTY
-Type of build:
-Only PCB
-All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket)   82,93€+42,74€ = 126€/20= 6.5€
-Only basic smd components + Diodes  (62)(no 1C, 9R, 2Q, PCM, usb )   51,09€+41,41€ =  93€/20= 5€
+|Type of build: |  |
+|----|----|
+|All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket) |  82,93€+42,74€ = 126€/20= 6.5€ |
+|Only basic smd components + Diodes  (62)(no 1C, 9R, 2Q, PCM, usb ) |  51,09€+41,41€ =  93€/20= 5€ |
 
 ### 10 QTY
-Type of build:
-Only PCB
-All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket)   53,17€+26,89€ =  80€/20= 8€
-Only basic smd components + Diodes  (62)(no 1C, 9R, 2Q, PCM, usb )   27,19€+26,06€ =  54€/20= 5.5€
+|Type of build:                                                     |                                |
+|-------------------------------------------------------------------|--------------------------------|
+|All smd (71)(but no 1 resistor, transistors, PCM5102, usb socket)  | 53,17€+26,89€ =  80€/20= 8€    |
+|Only basic smd components + Diodes  (62)(no 1C, 9R, 2Q, PCM, usb ) |  27,19€+26,06€ =  54€/20= 5.5€ |
 
 
 ![Most economical option](62pcs.png)
